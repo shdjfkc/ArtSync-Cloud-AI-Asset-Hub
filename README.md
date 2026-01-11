@@ -28,5 +28,5 @@
 图片编辑功能
 <img width="2549" height="1313" alt="image" src="https://github.com/user-attachments/assets/495ea312-4e69-4d4f-a22a-d61f043a6123" />
 
-以图收图功能
+以图搜图功能
 <img width="2549" height="1313" alt="image" src="https://github.com/user-attachments/assets/8e5262a4-9d0f-4bd9-ba85-4b9aba55f46e" />
